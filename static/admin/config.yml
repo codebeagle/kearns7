@@ -13,4 +13,4 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: "Sacrament URL", name: "sacrament-url", widget: 'string' }
+      - { label: "Sacrament URL", name: "sacramentURL", widget: 'string' }
