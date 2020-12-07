@@ -13,4 +13,9 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: "Sacrament URL", name: "sacramentURL", widget: 'string' }
+      - { label: "Sacrament YouTube URL", name: "sacramentURL", widget: 'string' }
+      - { label: "Sunday School Zoom URL", name: "ssURL", widget: 'string' }
+      - { label: "YM/YW Zoom URL", name: "ymywURL", widget: 'string' }
+      - { label: "RS/EQ Zoom URL", name: "rseqURL", widget: 'string' }
+      - { label: "Bishopric Lesson URL", name: "blURL", widget: 'string' }
+      - { label: "Teacher's Council URL", name: "tcURL", widget: 'string' }

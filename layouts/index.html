@@ -1,17 +1,14 @@
 {{ define "main"}}
 <section class="main">
   <div class="feature-container">
-    <h2>Kearns 7th Ward Live Streaming</h2>
+    <h1>Join Us for Sacrament Meeting</h1>
+    <p>Click to open the stream via our YouTube Channel. If you are joining early, you will need to refresh your browser at 11:30 a.m. to connect.</p>
     <!-- <a href="https://www.youtube.com/embed/live_stream?channel=UCr60hSNDcJFuOkBm21s60Ow&autoplay=1"> -->
     <!-- <a href="https://www.youtube.com/channel/UCr60hSNDcJFuOkBm21s60Ow/live"> -->
     <a href="{{ .Params.sacramentURL }}">
       <div class="feature">
         <div class="play-button">
           <div class="play-button-arrow"></div>
-        </div>
-        <div class="feature-text">
-          <h1>Join Us for Sacrament Meeting</h1>
-          <p>Click to open the YouTube stream</p>
         </div>
       </div>
     </a>
@@ -21,10 +18,30 @@
 <section class="classes">
   <h2>Second Hour Zoom Meetings (November 29, 2020)</h2>
   <div class="class-container">
+    <div class="class hidden">
+      <h3>Sunday School</h3>
+      <p>1s & 3rd Sundays @ 12:45 PM</p>
+      <a href="{{ .Params.ssURL }}">Click to Join Meeting</a>
+    </div>
     <div class="class">
-      <h3>Combined Youth & Adult Sunday School</h3>
-      <p>1st & 3rd Sunday @ 12:45 PM</p>
-      <a href="https://us02web.zoom.us/j/8269689370">Click to Join Meeting</a>
+      <h3>Combined YM & YW</h3>
+      <p>2nd & 4th Sundays @ 12:45 PM</p>
+      <a href="{{ .Params.ymywURL }}">Click to Join Meeting</a>
+    </div>
+    <div class="class">
+      <h3>Combined Relief Society and Elder's Quorum</h3>
+      <p>2nd & 4th Sundays @ 1:20 PM</p>
+      <a href="{{ .Params.rseqURL }}">Click to Join Meeting</a>
+    </div>
+    <div class="class hidden">
+      <h3>Bishopric Lesson</h3>
+      <p>5th Sunday @ 12:45 PM</p>
+      <a href="{{ .Params.blURL }}">Click to Join Meeting</a>
+    </div>
+    <div class="class hidden">
+      <h3>Teacher's Council</h3>
+      <p>5th Sunday @ 1:20 PM</p>
+      <a href="{{ .Params.tcURL }}">Click to Join Meeting</a>
     </div>
   </div>
 </section>
