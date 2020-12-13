@@ -1,11 +1,11 @@
 ---
-title: Kearns 7th Ward Streaming
-date: 2020-11-17T09:55:19-07:00
+tcURL: https://us02web.zoom.us/j/4523912830
 draft: false
+title: Kearns 7th Ward Streaming
 sacramentURL: https://www.youtube.com/channel/UCr60hSNDcJFuOkBm21s60Ow/live
-ssURL: https://us02web.zoom.us/j/8269689370
-ymywURL: https://us02web.zoom.us/j/8269689370
-rseqURL: https://us02web.zoom.us/j/8269689370
-blURL: https://us02web.zoom.us/j/8269689370
-tcURL: https://us02web.zoom.us/j/8269689370
+ssURL: https://us02web.zoom.us/j/4523912830
+ymywURL: https://us02web.zoom.us/j/4523912830
+rseqURL: https://us02web.zoom.us/j/4523912830
+blURL: https://us02web.zoom.us/j/4523912830
+date: 2020-11-17T09:55:19-07:00
 ---
