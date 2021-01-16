@@ -7,5 +7,6 @@ ssURL: https://us02web.zoom.us/j/4523912830
 ymywURL: https://us02web.zoom.us/j/4523912830
 rseqURL: https://us02web.zoom.us/j/4523912830
 blURL: https://us02web.zoom.us/j/4523912830
+pURL: https://us02web.zoom.us/j/4523912830
 date: 2020-11-17T09:55:19-07:00
 ---
